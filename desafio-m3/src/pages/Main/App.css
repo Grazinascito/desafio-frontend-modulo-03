@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: rgb(43, 37, 37);
+    border-radius: 60px 60px 0px 0px;
+    margin-top: -85px;
+    height: calc(100vh - 115px);
+    padding: 60px 80px;
+}
+
+button{
+    cursor: pointer;
+}
+
+.cursor-pointer{
+    cursor:pointer;
+}
