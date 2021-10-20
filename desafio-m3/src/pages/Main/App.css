@@ -5,7 +5,7 @@
 }
 
 main{
-    background-color: rgb(43, 37, 37);
+    background-color: #FFF;
     border-radius: 60px 60px 0px 0px;
     margin-top: -85px;
     height: calc(100vh - 115px);

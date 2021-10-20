@@ -1,0 +1,24 @@
+.table{
+    width: 915px;
+    border: 1px solid blue;
+}
+
+.table__body{
+    display: flex;
+    justify-content: center;
+}
+
+.table__line{
+    display: flex;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.table__line-items{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+    height: 55px;
+}
