@@ -1,7 +1,8 @@
 
 import './App.css';
 import Header from '../../components/Header';
-import TransactionsTable from '../../components/TransactionsTable'
+import TransactionsTable from '../../components/TransactionsTable';
+import Resume from '../../components/Resume';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Header />
         <main>
           <TransactionsTable/>
+          <Resume />
         </main>
     </div>
   );

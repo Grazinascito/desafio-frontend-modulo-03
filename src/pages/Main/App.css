@@ -5,6 +5,8 @@
 }
 
 main{
+    display: flex;
+    gap: 40px;
     background-color: #FFF;
     border-radius: 60px 60px 0px 0px;
     margin-top: -85px;
